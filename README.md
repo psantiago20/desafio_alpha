@@ -51,3 +51,10 @@ git branch -m main
 
 # Enviar o código para o GitHub
 git push -u origin main
+```
+
+🏫 Sobre a Alpha Edtech
+
+A Alpha Edtech é uma escola de tecnologia com foco em desenvolvimento humano e técnico, preparando alunos para o mercado de trabalho com uma formação completa em tecnologia, lógica, programação e soft skills.
+
+Saiba mais em 👉 https://sejaalphaedtech.org.br
