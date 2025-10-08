@@ -1,3 +1,5 @@
+<div align="center" style="background-color:#000000; color:#ffffff; padding:30px; border-radius:10px;">
+
 # Aulão Git e GitHub Alpha Edtech 🚀
 
 <img src="imagens/Alpha.jpeg" alt="Alpha Logo" height="30px" />
@@ -58,3 +60,4 @@ git push -u origin main
 A Alpha Edtech é uma escola de tecnologia com foco em desenvolvimento humano e técnico, preparando alunos para o mercado de trabalho com uma formação completa em tecnologia, lógica, programação e soft skills.
 
 Saiba mais em 👉 https://sejaalphaedtech.org.br
+</div>
