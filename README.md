@@ -1,4 +1,4 @@
-# Bootcamp Python Developer 🚀
+# Aulão Git e GitHub Alpha Edtech 🚀
 
 <img src="imagens/Alpha.jpeg" alt="Alpha Logo" height="30px" />
 [👉 Acesse o Bootcamp aqui](https://sejaalphaedtech.org.br)
